@@ -1,0 +1,6 @@
+NSCameraUsageDescription = "Allow Camera";
+NSContactsUsageDescription = "Allow Contacts";
+NSLocationWhenInUseUsageDescription = "Allow Location";
+NSMicrophoneUsageDescription = "Allow Microphone";
+PermissionGroupNotification = "Allow Notifications";
+NSFaceIDUsageDescription = "Scan ID";
